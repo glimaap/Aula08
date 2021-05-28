@@ -31,12 +31,6 @@ public class Login {
 	retorno
 	}
 	*/ 
-
-	
-	//p1=email, p2=token, p3=senha
-	public static boolean validar(String p1, String p2, String p3) {
-		return true;
-	}
 	
 
 }
